@@ -42,4 +42,4 @@ Your contributions are always welcome!
 
 ### License
 
-This Project is [MIT licensed](./LICENSE) © [Leonardo Pliskieviski](https://www.linkedin.com/in/leonardo-pliskieviski/)
+This Project is [MIT licensed](./LICENSE) © [enthsiastic]

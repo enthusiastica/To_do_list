@@ -12,13 +12,13 @@ A simple todo list app built with React, Redux, Redux Persist, LESS and Ant Desi
 First of all, clone this `repo`:
 
 ```sh
-$ git clone https://github.com/leonardopliski/react-antd-todo.git
+$ git clone https://github.com/enthusiastica/To_do_list.git
 ```
 
 Move to the project dir:
 
 ```sh
-$ cd react-antd-todo/
+$ cd To_do_list/
 ```
 
 With [Docker](https://www.docker.com/) just run:
